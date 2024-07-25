@@ -1,0 +1,286 @@
+HeaderInfo =  
+{
+	mapsize =  
+	{
+		352,
+		352,
+	},
+	point_positions =  
+	{
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = 34.39394,
+			y = 5.52102,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -98.51215,
+			y = -107.30228,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = 104.78977,
+			y = 102.31654,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_high",
+			owner_id = 0,
+			x = -21.83246,
+			y = -44.58780,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_high",
+			owner_id = 0,
+			x = 114.62210,
+			y = 102.59309,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = -84.28951,
+			y = -20.03534,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point_5m",
+			owner_id = 0,
+			x = -118.05766,
+			y = -66.74709,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = -3.45794,
+			y = 91.60717,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = 39.14022,
+			y = 124.63401,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_high",
+			owner_id = 0,
+			x = -114.55106,
+			y = -115.66502,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point_5m",
+			owner_id = 0,
+			x = -67.25565,
+			y = -111.22946,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = -16.40634,
+			y = -125.53581,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_high",
+			owner_id = 0,
+			x = 16.54184,
+			y = 35.11982,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = 119.86536,
+			y = 15.13893,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point_5m",
+			owner_id = 0,
+			x = 26.38071,
+			y = -112.77087,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point_5m",
+			owner_id = 0,
+			x = 67.74020,
+			y = -28.11800,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1000,
+			x = -136.86703,
+			y = 92.56127,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1002,
+			x = -136.55492,
+			y = 116.15479,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1004,
+			x = -119.33266,
+			y = 137.73003,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1006,
+			x = -98.98840,
+			y = 138.13109,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1001,
+			x = 133.12686,
+			y = -133.82597,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1003,
+			x = 99.20333,
+			y = -139.09515,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1005,
+			x = 137.82495,
+			y = -107.28607,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1007,
+			x = 138.62784,
+			y = -78.22733,
+		},
+	},
+	scenario_type = 1,
+	scenarioname = "(8) Ruin's End",
+	slots =  
+	{
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+	},
+	stylized_minimap_enabled = true,
+	stylized_minimap_pipeline_path = "engine_default_minimap_pipeline",
+	version = 3001,
+	visible_in_lobby = true,
+	worldbp = "default",
+}
+

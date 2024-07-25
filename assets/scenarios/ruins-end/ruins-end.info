@@ -109,13 +109,6 @@ HeaderInfo =
 		{
 			ebp_name = "territory_strategic_point_5m",
 			owner_id = 0,
-			x = 26.38071,
-			y = -112.77087,
-		},
-		 
-		{
-			ebp_name = "territory_strategic_point_5m",
-			owner_id = 0,
 			x = 67.74020,
 			y = -28.11800,
 		},

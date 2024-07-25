@@ -1,1 +1,5 @@
-Map for Company of heroes 3
+# Doom Trench 
+
+Map for Company of Heroes 3
+
+![Minimap](assets/mod.png)

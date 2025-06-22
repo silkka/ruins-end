@@ -1,4 +1,4 @@
-# Doom Trench 
+# Ruin's End
 
 Map for Company of Heroes 3
 
